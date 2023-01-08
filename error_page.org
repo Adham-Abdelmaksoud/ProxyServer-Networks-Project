@@ -1,0 +1,47 @@
+HTTP/1.1 403 Forbidden
+
+Age: 460182
+
+Cache-Control: max-age=604800
+
+Content-Type: text/html; charset=UTF-8
+
+Date: Sat, 07 Jan 2023 12:51:29 GMT
+
+Etag: "3147526947+ident"
+
+Expires: Sat, 14 Jan 2023 12:51:29 GMT
+
+Last-Modified: Thu, 17 Oct 2019 07:18:26 GMT
+
+Server: ECS (bsa/EB24)
+
+Vary: Accept-Encoding
+
+X-Cache: HIT
+
+Content-Length: 1256
+
+
+
+<!doctype html>
+<html>
+<head>
+    <title>Error Page</title>
+
+    <meta charset="utf-8" />
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style type="text/css">
+    div {
+        text-align:center;
+    }
+    </style>    
+</head>
+
+<body>
+<div>
+    <h1>URL IS BLOCKED</h1>
+</div>
+</body>
+</html>
